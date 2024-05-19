@@ -1,10 +1,10 @@
 ### Hi there 👋
-I'm **Enoc Dominguez**, I'm a Systems Engineer from Mexico :mexico:, I like programming 🖥️ (especially frontend development), listening to music 🎵, and drinking coffee ☕. Currently I'm developing personal projects to improve my skills and securing an employment.
+I'm **Enoc Dominguez**, I'm a Systems Engineer from Mexico, I like programming 🖥️ (especially frontend development), listening to music 🎵, and drinking coffee ☕. Currently I'm developing personal projects to improve my skills and securing an employment.
 
 <br clear="both">
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
   <img width="12" />
